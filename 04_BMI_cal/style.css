@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: orange;
+}
+.input-container{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+#weight,#height{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button{
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
